@@ -22,7 +22,7 @@ div{
 .countainer1{
 	background-color: #B0A695;
 	width: 20%;
-	height: 3270px;
+	height: 3080px;
 	align-items: center;
 	text-align: center;
 
@@ -186,20 +186,6 @@ div{
 	height: 200px;
 	border-radius: 20%;
 }
-
-.countainer6{
-	background-color: #BFB29E;
-	width: auto;
-	align-items: center;
-	text-align: center;
-	padding-top: 20px;
-	padding: 10px;
-	margin-bottom: 20px;
-	padding-bottom: 20px;
-	margin-top: 20px;
-	display: flex;
-}
-
 .bestseller{
 	text-align: center;
 	align-items: center;
@@ -209,15 +195,15 @@ div{
 	color: #F3EEEA 
 }
 .fotobestseller{
-	width: 230px;
-	height: 250px;
+	width: 150px;
+	height: 200px;
 	margin: 20px;
 	border-radius: 2px 140px 20px 60px;
 	border-radius: 20px 10px 80px 10px;
 }
 .fotobestseller2{
-	width: 230px;
-	height: 250px;
+	width: 150px;
+	height: 200px;
 	margin: 20px;
 	border-radius: 0px 50px 0px 50px;
 }
